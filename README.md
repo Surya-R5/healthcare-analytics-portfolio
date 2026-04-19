@@ -35,7 +35,7 @@ Key Skills Demonstrated:
 - Healthcare equity analysis
 - Identifying vulnerable populations
 
-Live Dashboard: [public.tableau.com/app/profile/asharu_data/viz/BreastCancerScreeningDisparities/Dashboard1](https://public.tableau.com/app/profile/asharu_data/viz/BreastCancerScreeningDisparities/Dashboard1)
+**Live Dashboard**: [View Interactive Dashboard](https://public.tableau.com/views/BreastCancerScreeningDisparities/BreastCancerScreeningDisparitiesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 PDF Export: [Breast_Cancer_Screening_Dashboard.pdf](./Breast_Cancer_Screening_Dashboard.pdf)
 
